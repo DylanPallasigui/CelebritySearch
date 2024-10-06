@@ -1,0 +1,20 @@
+Charles Babbage 	1791 1871 Designed worlds first computers (the difference engine and the analytical engine) with Ada Lovelace.
+Ada Lovelace 		1815 1852 Regarded as worlds first programmer based on her work with Charles Babbage.
+John vonNeumann 	1903 1957 Inventor of the modern computer architecture.
+Alonzo Church 		1903 1995 Invented Lambda Calculus, considered the first programming language ever.
+Grace Hopper 		1906 1992 Coined the term "debugging" after removing a moth from the Harvard Mark I computer she was programming in the 1947.
+Alan Turing 		1912 1954 Defined what is now referred to as a Turing machine, and is often considered as the founder of computer science.
+Gene Amdahl 		1922 -1 Computer architect and author of Amdahl's Law (for predicting maximum speedup on multiprocessor systems).
+John Backus 		1924 -1 Headed the development group at IBM which gave birth to the language FORTRAN.
+Seymour Cray 		1925 1996 Unveiled the CRAY-1, the world's first supercomputer.
+Marvin Minsky 		1927 -1 Co-founded with John McCarthy the Artificial Intelligence Laboratory at MIT.
+Donald Knuth 		1938 -1 Father of algorithm analysis and author of "The Art of Computer Programming" books.
+Charles Norris 		1940 -1 All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+Larry Ellison 		1944 -1 Founder of Oracle database systems and almost as rich as Bill Gates.
+Whitfield Diffie 	1944 -1 Invented public key cryptography.
+Bill Gates 		    1955 -1 Founder of Microsoft and one of the richest men in the world.
+Tim Berners-Lee 	1955 -1 Invented what is now known as the World Wide Web.
+Steve Jobs 		    1955 2011 Founder of Apple (and NeXT and Pixar) and maker of many iThings.
+Sergey Brin 		1973 -1 Founder of google.com (with Larry Page) and Internet billionaire.
+Larry Page 		    1973 -1 Founder of google.com (with Sergey Brin) and Internet billionaire.
+Mark Zuckerberg		1984 -1 Founder of facebook.com and recent Internet billionaire.

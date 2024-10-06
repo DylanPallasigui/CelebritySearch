@@ -1,0 +1,1 @@
+a C++ application that searches for celebrity information based on name or birth year range.
